@@ -1,35 +1,52 @@
 ---
-id: 635090f47eb6d9563a6fed05
-title: Step 26
+id: 661890c4abae9f2a0eddad6b
+title: Step 22
 challengeType: 0
-dashedName: step-26
+dashedName: step-22
 ---
 
 # --description--
 
-Now it is time to apply what you have learned to the `getMedian` function.
+In the next few steps, you'll learn how to determine if an array's length is even or odd, as well as how to find the median. You will then be able to apply what you learned to the `getMedian` function.
 
-Inside your `getMedian` function, check if the length of `array` is even. If it is, find the middle two numbers, calculate their mean, and return the result. If the length of `array` is odd, return the middle number.
+To check if a number is even or odd, you can use the <dfn>modulus operator</dfn> `%`. The modulus operator returns the remainder of the division of two numbers. 
 
-Make sure to work with the `sorted` array to find the middle numbers. 
+Here is an example checking if an array length is even or odd:
 
-Also if you need help, refer back to the previous few steps to see how to find the median for an array.
+```js
+// check if array length is even
+arr.length % 2 === 0;
+
+// check if array length is odd
+arr.length % 2 === 1;
+```
+
+If the remainder is `0`, the number is even. If the remainder is `1`, the number is odd.
+
+Create a variable called `isEven`. Then use the modulus operator to check if the length of the `testArr2` array is even. Assign that expression to the `isEven` variable.
+
+Below your `isEven` variable, log out the `isEven` variable to the console.
+
+Open up the console to see the result. 
 
 # --hints--
 
-
-Your `getMedian` function should return the mean of the middle two numbers if the array length is even.
+You should have an `isEven` variable.
 
 ```js
-assert.equal(getMedian([1,2,3,4,5,6]), 3.5);
-assert.equal(getMedian([1,2,3,4,5,6,7,8,9,10]), 5.5);
+assert.isDefined(isEven);
 ```
 
-Your `getMedian` function should return the middle number if the array length is odd.
+You should check if the length of the `testArr2` array is even. Refer back to the example provided for you: `arr.length % 2 === 0;`
 
 ```js
-assert.equal(getMedian([1,2,3,4,5]), 3);
-assert.equal(getMedian([1,2,3,4,5,6,7,8,9]), 5);
+assert.isTrue(isEven);
+```
+
+You should have a `console.log` statement that logs the `isEven` variable.
+
+```js
+assert.match(code, /console\.log\(isEven\)/);
 ```
 
 # --seed--
@@ -122,10 +139,13 @@ input {
 const getMean = (array) => array.reduce((acc, el) => acc + el, 0) / array.length;
 
 --fcc-editable-region--
+const testArr1 = [1, 2, 3, 4, 5];
+const testArr2 = [1, 2, 3, 4, 5, 6];
+
+--fcc-editable-region--
 const getMedian = (array) => {
   const sorted = array.sort((a, b) => a - b);
 }
---fcc-editable-region--
 
 const calculate = () => {
   const value = document.querySelector("#numbers").value;
