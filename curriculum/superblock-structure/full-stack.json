@@ -189,6 +189,7 @@
         {
           "dashedName": "css-grid",
           "blocks": [
+            { "dashedName": "workshop-magazine" },
             { "dashedName": "lab-product-landing-page" },
             { "dashedName": "review-css-grid" },
             { "dashedName": "quiz-css-grid" }
@@ -333,7 +334,10 @@
             { "dashedName": "quiz-local-storage-and-crud" }
           ]
         },
-        { "dashedName": "classes-and-the-this-keyword", "blocks": [] },
+        {
+          "dashedName": "classes-and-the-this-keyword",
+          "blocks": [{ "dashedName": "lab-project-idea-board" }]
+        },
         {
           "dashedName": "recursion",
           "blocks": [{ "dashedName": "quiz-recursion" }]
