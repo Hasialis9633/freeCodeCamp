@@ -2190,7 +2190,7 @@
         "title": "Build a Cat Painting",
         "intro": [
           "Mastering CSS positioning is essential for creating visually appealing and responsive web layouts.",
-          "In this workshop, you will build a cat painting. You'll learn about how to work with absolute positioning, the z-index property, and the transform property."
+          "In this workshop, you will build a cat painting. You'll learn about how to work with absolute positioning, the <code>z-index</code> property, and the <code>transform</code> property."
         ]
       },
       "lab-house-painting": {
@@ -2307,9 +2307,9 @@
         ]
       },
       "review-css-animations": {
-        "title": "CSS Amimations Review",
+        "title": "CSS Animations Review",
         "intro": [
-          "Review the CSS Amimations concepts to prepare for the upcoming quiz."
+          "Review the CSS Animations concepts to prepare for the upcoming quiz."
         ]
       },
       "quiz-css-animations": {
