@@ -2273,7 +2273,8 @@
       "review-css-attribute-selectors": {
         "title": "CSS Attribute Selectors Review",
         "intro": [
-          "Review the CSS Attribute Selectors concepts to prepare for the upcoming quiz."
+          "Before you are quizzed on the fundamentals of CSS attribute selectors, you first need to review.",
+          "Open up this page to review concepts like how to work with different attribute selectors that target links with the <code>href</code> and <code>title</code> attributes."
         ]
       },
       "quiz-css-attribute-selectors": {
@@ -2302,7 +2303,8 @@
       "review-css-positioning": {
         "title": "CSS Positioning Review",
         "intro": [
-          "Review the CSS Positioning concepts to prepare for the upcoming quiz."
+          "Before you are quizzed on the fundamentals of CSS positioning concepts, you first need to review.",
+          "Open up this page to review concepts like floats, relative positioning, absolute positioning and more."
         ]
       },
       "quiz-css-positioning": {
@@ -2452,9 +2454,18 @@
         "intro": ["Review the CSS concepts to prepare for the upcoming exam."]
       },
       "wvjx": { "title": "127", "intro": [] },
-      "uquz": { "title": "128", "intro": [] },
-      "kdgd": { "title": "129", "intro": [] },
-      "wryp": { "title": "130", "intro": [] },
+      "lecture-working-with-code-editors-and-ides": {
+        "title": "Working with Code Editors and IDE's",
+        "intro": [
+          "In these lecture videos, you will learn about working with code editors and IDE's."
+        ]
+      },
+      "lecture-introduction-to-javascript": {
+        "title": "Introduction to JavaScript",
+        "intro": [
+          "In these lecture videos, you will get a basic introduction to JavaScript."
+        ]
+      },
       "workshop-greeting-bot": {
         "title": "Build a Greeting Bot",
         "intro": [
@@ -2468,7 +2479,12 @@
           "In this lab, you will practice working with JavaScript variables and strings by building a trivia bot."
         ]
       },
-      "dthi": { "title": "132", "intro": [] },
+      "lecture-working-with-data-types": {
+        "title": "Working with Data Types",
+        "intro": [
+          "In these lecture videos, you will learn about data types in JavaScript."
+        ]
+      },
       "review-javascript-variables-and-data-types": {
         "title": "JavaScript Variables and Data Types Review",
         "intro": [
@@ -2481,7 +2497,12 @@
           "Test what you've learned in this quiz on JavaScript Variables and Data Types."
         ]
       },
-      "hoec": { "title": "135", "intro": [] },
+      "lecture-working-with-strings-in-javascript": {
+        "title": "Working with Strings in JavaScript",
+        "intro": [
+          "In these lecture videos, you will learn about working with strings in JavaScript."
+        ]
+      },
       "workshop-teacher-chatbot": {
         "title": "Build a Teacher Chatbot",
         "intro": [
@@ -2489,7 +2510,12 @@
           "You will learn how to work with template literals, and the <code>indexOf</code> method."
         ]
       },
-      "axgb": { "title": "137", "intro": [] },
+      "lecture-working-with-common-string-methods": {
+        "title": "Working with Common String Methods",
+        "intro": [
+          "In these lecture videos, you will learn about common String methods."
+        ]
+      },
       "review-javascript-strings": {
         "title": "JavaScript Strings Review",
         "intro": [
@@ -2502,7 +2528,12 @@
           "Test what you've learned in this quiz on JavaScript Strings."
         ]
       },
-      "hxwa": { "title": "140", "intro": [] },
+      "lecture-working-with-numbers-booleans-and-the-math-object": {
+        "title": "Working with Numbers, Booleans, and the Math Object",
+        "intro": [
+          "In these lecture videos, you will learn about numbers, booleans, and the Math Object."
+        ]
+      },
       "workshop-mathbot": {
         "title": "Build a Mathbot",
         "intro": [
@@ -2515,7 +2546,12 @@
           "In this lab, you will build a fortune teller by randomly selecting a fortune from the avaialble fortunes."
         ]
       },
-      "wfyg": { "title": "143", "intro": [] },
+      "lecture-working-with-numbers-and-common-number-methods": {
+        "title": "Working with Numbers and Common Number Methods",
+        "intro": [
+          "In these lecture videos, you will learn about numbers and common Number methods."
+        ]
+      },
       "review-javascript-math": {
         "title": "JavaScript Math Review",
         "intro": [
@@ -2526,7 +2562,12 @@
         "title": "JavaScript Math Quiz",
         "intro": ["Test what you've learned in this quiz on JavaScript Math."]
       },
-      "hafd": { "title": "146", "intro": [] },
+      "lecture-understanding-comparisons-and-conditionals": {
+        "title": "Understanding Comparisons and Conditionals",
+        "intro": [
+          "In these lecture videos, you will learn about comparisons and conditionals."
+        ]
+      },
       "review-javascript-comparisons-and-conditionals": {
         "title": "JavaScript Comparisons and Conditionals Review",
         "intro": [
@@ -2539,7 +2580,12 @@
           "Test what you've learned in this quiz on JavaScript Comparisons and Conditionals."
         ]
       },
-      "tsdq": { "title": "149", "intro": [] },
+      "lecture-working-with-functions": {
+        "title": "Working with Functions",
+        "intro": [
+          "In these lecture videos, you will learn about working with functions."
+        ]
+      },
       "workshop-calculator": {
         "title": "Build a Calculator",
         "intro": [
@@ -2776,9 +2822,14 @@
           "Test what you've learned in this quiz on Debugging JavaScript."
         ]
       },
-      "dqth": { "title": "205", "intro": [] },
-      "ilop": { "title": "206", "intro": [] },
-      "qrer": { "title": "207", "intro": [] },
+      "ilop": { "title": "205", "intro": [] },
+      "dqth": { "title": "206", "intro": [] },
+      "lab-markdown-to-html-converter": {
+        "title": "Build a Markdown to HTML Converter",
+        "intro": [
+          "For this lab, you will build a Markdown to HTML converter using JavaScript."
+        ]
+      },
       "lab-regex-sandbox": {
         "title": "Build a RegEx Sandbox",
         "intro": ["In this lab you will build a regex sandbox."]
@@ -2796,7 +2847,13 @@
         ]
       },
       "zalp": { "title": "211", "intro": [] },
-      "hhvp": { "title": "212", "intro": [] },
+      "workshop-calorie-counter": {
+        "title": "Build a Calorie Counter",
+        "intro": [
+          "Sometimes when you're coding a web application, you'll need to be able to accept input from a user. In this calorie counter workshop, you'll practice how to validate user input, perform calculations based on that input, and dynamically update your interface to display the results.",
+          "You'll also practice basic regular expressions, template literals, the <code>addEventListener()</code> method, and more."
+        ]
+      },
       "egkv": { "title": "213", "intro": [] },
       "review-form-validation-with-javascript": {
         "title": "Form Validation with JavaScript Review",
@@ -2853,7 +2910,13 @@
       },
       "cvs3": { "title": "229", "intro": [] },
       "fgbp": { "title": "230", "intro": [] },
-      "fgb1": { "title": "231", "intro": [] },
+      "workshop-todo-app": {
+        "title": "Build a Todo App using Local Storage",
+        "intro": [
+          "Local storage is a web browser feature that lets web applications store key-value pairs persistently within a user's browser. This allows web apps to save data during one session, then retrieve it in a later page session.",
+          "In this workshop, you'll learn how to handle form inputs, manage local storage, perform CRUD (Create, Read, Update, Delete) operations on tasks, implement event listeners, and toggle UI elements."
+        ]
+      },
       "lab-bookmark-manager-app": {
         "title": "Build a Bookmark Manager App",
         "intro": ["For this lab, you will build a bookmark manager app."]
