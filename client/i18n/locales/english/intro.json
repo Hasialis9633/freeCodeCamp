@@ -1404,7 +1404,6 @@
   },
   "a2-english-for-developers": {
     "title": "A2 English for Developers (Beta)",
-    "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
     "intro": [
       "In this English for Developers Curriculum, you'll learn the essentials of English communication. This will follow the A2 level of the Common European Framework of Reference (CEFR). And we've focused on vocabulary that is particularly useful for developers.",
       "The first half of the curriculum will help you get comfortable with English grammar and usage. It will give you tons of hands-on practice. You'll learn basics like introducing yourself, making small talk, and discussing your work.",
@@ -1584,7 +1583,6 @@
   },
   "b1-english-for-developers": {
     "title": "B1 English for Developers (Beta)",
-    "note": "This certification is currently in active development. While there isn't a claimable certification available for this section at the moment, one will be available soon. In the meantime, you're welcome to explore the courses we have created below.",
     "intro": ["Placeholder intro"],
     "blocks": {
       "learn-how-to-describe-places-and-events": {
@@ -1706,6 +1704,73 @@
       "Through a blend of interactive lessons, coding exercises, and real-world projects, you will master both frontend and backend development. You'll work with HTML, CSS, and JavaScript to build responsive user interfaces, explore React and TypeScript for advanced web applications, and learn to manage data with relational databases - and on the backend, you'll use Git, Npm, Node.js, and Python to create powerful server-side solutions.",
       "By the end of this course, you'll have the practical skills and experience to confidently develop complete web applications, preparing you for a successful career as a Full Stack Developer."
     ],
+    "chapters": {
+      "freecodecamp": "freeCodeCamp",
+      "html": "HTML",
+      "css": "CSS",
+      "javascript": "JavaScript",
+      "frontend-libraries": "Front End Libraries",
+      "relational-databases": "Relational Databases",
+      "security-and-privacy": "Security and Privacy"
+    },
+    "modules": {
+      "getting-started-with-freecodecamp": "Getting Started with freeCodeCamp",
+      "basic-html": "Basic HTML",
+      "semantic-html": "Semantic HTML",
+      "html-forms-and-tables": "HTML Forms and Tables",
+      "html-and-accessibility": "HTML and Accessibility",
+      "computer-basics": "Computer Basics",
+      "basic-css": "Basic CSS",
+      "design-for-developers": "Designer for Developers",
+      "absolute-and-relative-units": "Absolute and Relative Units",
+      "pseudo-classes-and-elements": "Pseudo Classes and Elements",
+      "css-colors": "CSS Colors",
+      "styling-forms": "Styling Forms",
+      "css-box-model": "CSS Box Model",
+      "css-flexbox": "CSS Flexbox",
+      "css-typography": "CSS Typography",
+      "css-and-accessibility": "CSS and Accessibility",
+      "attribute-selectors": "Attribute Selectors",
+      "css-positioning": "CSS Positioning",
+      "responsive-design": "Responsive Design",
+      "css-variables": "CSS Variables",
+      "css-grid": "CSS Grid",
+      "css-animations": "CSS Animations",
+      "code-editors": "Code editors",
+      "javascript-variables-and-strings": "JavaScript Variables and Strings",
+      "javascript-booleans-and-numbers": "JavaScript Booleans and Numbers",
+      "javascript-functions": "JavaScript Functions",
+      "javascript-arrays": "JavaScript Arrays",
+      "javascript-objects": "JavaScript Objects",
+      "javascript-loops": "JavaScript Loops",
+      "review-javascript-fundamentals": "Review JavaScript Fundamentals",
+      "higher-order-functions-and-callbacks": "Higher Order Functions and Callbacks",
+      "dom-manipulation-and-events": "DOM Manipulation and Events",
+      "debugging-javascript": "Debugging JavaScript",
+      "basic-regex": "Basic Regex",
+      "form-validation": "Form Validation",
+      "javascript-dates": "JavaScript Dates",
+      "audio-and-video-events": "Audio and Video Events",
+      "maps-sets-and-json": "Maps, Sets, and JSON",
+      "localstorage-and-crud-operations": "localStorage and CRUD Operations",
+      "classes-and-the-this-keyword": "Classes and the <code>this</code> keyword",
+      "recursion": "Recursion",
+      "functional-programming": "Functional Programming",
+      "asynchronous-javascript": "Asynchronous JavaScript",
+      "react-fundamentals": "React Fundamentals",
+      "react-state-hooks-and-routing": "React state, hooks, and routing",
+      "performance": "Performance",
+      "css-libraries-and-frameworks": "CSS Libraries and Frameworks",
+      "testing": "Testing",
+      "typescript-fundamentals": "TypeScript Fundamentals",
+      "bash-fundamentals": "Bash Fundamentals",
+      "relational-databases": "Relational Databases",
+      "bash-scripting": "Bash Scripting",
+      "sql-and-bash": "SQL and Bash",
+      "nano": "Nano",
+      "git": "Git",
+      "security-and-privacy": "Security and Privacy"
+    },
     "blocks": {
       "lecture-welcome-to-freecodecamp": {
         "title": "Welcome to freeCodeCamp",
@@ -2379,7 +2444,7 @@
         "title": "CSS Variables Review",
         "intro": [
           "Before you are quizzed on the fundamentals of CSS variables, you first need to review.",
-          "Open up this page to review how to work with CSS custom properties(CSS variables) and the <code>@property</code> rule."
+          "Open up this page to review how to work with CSS custom properties (CSS variables) and the <code>@property</code> rule."
         ]
       },
       "quiz-css-variables": {
@@ -3104,7 +3169,12 @@
         ]
       },
       "ndl3": { "title": "242", "intro": [] },
-      "ndl4": { "title": "243", "intro": [] },
+      "lab-permutation-generator": {
+        "title": "Build a Permutation Generator",
+        "intro": [
+          "For this lab, you will build a permutation generator that produces all possible permutations of a given string."
+        ]
+      },
       "review-recursion": {
         "title": "Recursion Review",
         "intro": [
