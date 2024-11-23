@@ -2607,7 +2607,7 @@
       "lecture-working-with-numbers-booleans-and-the-math-object": {
         "title": "Working with Numbers, Booleans, and the Math Object",
         "intro": [
-          "In these lecture videos, you will learn about numbers, booleans, and the Math Object."
+          "In these lecture videos, you will learn about numbers, booleans, and the <code>Math</code> object."
         ]
       },
       "workshop-mathbot": {
@@ -2858,6 +2858,12 @@
           "In this workshop, you will learn higher order array methods by building a library manager"
         ]
       },
+      "lab-book-organizer": {
+        "title": "Build a Book Organizer",
+        "intro": [
+          "In this lab, you will build a book organizer using higher order functions in JavaScript."
+        ]
+      },
       "bxtv": { "title": "184", "intro": [] },
       "review-javascript-higher-order-functions": {
         "title": "JavaScript Higher Order Functions Review",
@@ -2947,7 +2953,8 @@
       "review-javascript-events": {
         "title": "JavaScript Events Review",
         "intro": [
-          "Review the JavaScript Events concepts to prepare for the upcoming quiz."
+          "Before you are quizzed on events, you first need to review the concepts.",
+          "Open up this page to review concepts like change events, event bubbling, and event delegation."
         ]
       },
       "quiz-javascript-events": {
@@ -3150,7 +3157,12 @@
           "In this lab, you will build a project idea board using OOP in JavaScript."
         ]
       },
-      "ndlf": { "title": "238", "intro": [] },
+      "lab-bank-account-manager": {
+        "title": "Build a Bank Account Management Program",
+        "intro": [
+          "In this lab, you will build a simple transaction management system for a bank account."
+        ]
+      },
       "review-javascript-classes": {
         "title": "JavaScript Classes Review",
         "intro": [
