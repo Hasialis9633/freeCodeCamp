@@ -10,6 +10,7 @@ const frameDocument = document as FrameDocument;
 frameDocument.__initTestFrame = initTestFrame;
 
 async function initTestFrame(e: InitTestFrameArg = { code: {} }) {
+  // eslint-disable-next-line @typescript-eslint/no-unused-vars
   const code = (e.code.contents || '').slice();
 
   const editableContents = (e.code.editableContents || '').slice();
@@ -24,10 +25,6 @@ async function initTestFrame(e: InitTestFrameArg = { code: {} }) {
     frameDocument.body.removeChild(div);
     return out;
   };
-
-  if (!e.getUserInput) {
-    e.getUserInput = () => code;
-  }
 
   /* eslint-disable @typescript-eslint/no-unused-vars */
   // Fake Deep Equal dependency
@@ -94,7 +91,7 @@ async function initTestFrame(e: InitTestFrameArg = { code: {} }) {
       const test = await testPromise;
       if (typeof test === 'function') {
         // eslint-disable-next-line @typescript-eslint/no-unsafe-call
-        await test(e.getUserInput);
+        await test();
       }
       return { pass: true };
     } catch (err) {
