@@ -6,4 +6,4 @@ superBlock: full-stack-developer
 
 ## Introduction to the Graphs and Trees Quiz
 
-Test what you've learned in this quiz on Graphs and Trees.
+This page is for the Graphs and Trees Quiz

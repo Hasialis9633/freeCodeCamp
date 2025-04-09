@@ -6,4 +6,4 @@ superBlock: full-stack-developer
 
 ## Introduction to the Dynamic Programming Quiz
 
-Test what you've learned in this quiz on Dynamic Programming.
+This page is for the Dynamic Programming Quiz

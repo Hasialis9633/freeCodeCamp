@@ -3,14 +3,10 @@
   "blockType": "quiz",
   "blockLayout": "link",
   "isUpcomingChange": true,
-  "usesMultifileEditor": true,
   "dashedName": "quiz-dynamic-programming",
   "superBlock": "full-stack-developer",
   "challengeOrder": [
-    {
-      "id": "66edd5ffe490bef99ea99395",
-      "title": "Dynamic Programming Quiz"
-    }
+    { "id": "67f413a2abe9894c52e15c6e", "title": "Dynamic Programming Quiz" }
   ],
-  "helpCategory": "JavaScript"
+  "helpCategory": "Python"
 }
