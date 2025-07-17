@@ -813,6 +813,9 @@
           "comingSoon": true,
           "blocks": [
             {
+              "dashedName": "workshop-planets-tablist"
+            },
+            {
               "dashedName": "review-js-a11y"
             },
             {
@@ -1180,6 +1183,9 @@
               "dashedName": "workshop-error-message-component"
             },
             {
+              "dashedName": "workshop-tailwind-cta-component"
+            },
+            {
               "dashedName": "lab-music-shopping-cart-page"
             },
             {
@@ -1319,6 +1325,7 @@
             { "dashedName": "lab-quicksort" },
             { "dashedName": "lab-selection-sort" },
             { "dashedName": "lab-luhn-algorithm" },
+            { "dashedName": "lab-tower-of-hanoi" },
             { "dashedName": "review-searching-and-sorting-algorithms" },
             { "dashedName": "quiz-searching-and-sorting-algorithms" }
           ]
