@@ -3280,6 +3280,12 @@
           "In this lab, you will use JavaScript fundamentals to create a function that finds the largest number in each sub-array of a given array."
         ]
       },
+      "lab-first-element-finder": {
+        "title": "Build a First Element Finder",
+        "intro": [
+          "In this lab, you will create a function that looks through an array and returns the first element in it that passes a \"truth test\"."
+        ]
+      },
       "lab-slice-and-splice": {
         "title": "Implement the Slice and Splice Algorithm",
         "intro": [
@@ -4445,6 +4451,12 @@
       "review-python": {
         "title": "Python Review",
         "intro": ["Review Python concepts to prepare for the upcoming exam."]
+      },
+      "lecture-understanding-the-command-line-and-working-with-bash": {
+        "title": "Understanding the Command Line and Working with Bash",
+        "intro": [
+          "Learn about the Command Line and Working with Bash in these lectures."
+        ]
       },
       "workshop-bash-boilerplate": {
         "title": "Build a Boilerplate",
