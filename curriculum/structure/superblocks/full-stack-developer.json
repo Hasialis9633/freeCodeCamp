@@ -392,6 +392,7 @@
             "lab-sum-all-numbers-algorithm",
             "lab-dna-pair-generator",
             "lab-html-entitiy-converter",
+            "lab-odd-fibonacci-sum-calculator",
             "lab-optional-arguments-sum-function",
             "review-javascript-fundamentals",
             "quiz-javascript-fundamentals"
@@ -409,6 +410,7 @@
             "lab-matching-object-filter",
             "lab-sum-all-primes-calculator",
             "lab-deep-flattening-tool",
+            "lab-all-true-property-validator",
             "review-javascript-higher-order-functions",
             "quiz-javascript-higher-order-functions"
           ]
@@ -702,6 +704,7 @@
           "comingSoon": true,
           "blocks": [
             "lecture-classes-and-objects",
+            "workshop-musical-instrument-inventory",
             "lab-budget-app",
             "review-classes-and-objects",
             "quiz-classes-and-objects"
