@@ -2069,13 +2069,6 @@
           "This workshop will serve as your introduction to HTML and coding in general. You will learn about headings and paragraph elements."
         ]
       },
-      "lecture-welcome-to-freecodecamp": {
-        "title": "Welcome Message from Quincy Larson",
-        "intro": [
-          "Hear from Quincy Larson, the founder and teacher of freeCodeCamp.",
-          "Quincy will welcome you to the platform and talk about how the certification works. Quincy will also provide tips on how to learn effectively."
-        ]
-      },
       "lab-debug-camperbots-profile-page": {
         "title": "Debug Camperbot's Profile Page",
         "intro": [
@@ -3479,6 +3472,12 @@
           "In these lectures, you will learn how to work with the <code>arguments</code> object and rest parameter syntax."
         ]
       },
+      "lab-unique-sorted-union": {
+        "title": "Implement a Unique Sorted Union",
+        "intro": [
+          "In this lab, you will create a function that takes two or more arrays and returns a new array of unique values in the order of the original provided arrays."
+        ]
+      },
       "lab-password-generator": {
         "title": "Build a Password Generator App",
         "intro": [
@@ -3574,6 +3573,12 @@
         "title": "Build a Prime Number Sum Calculator",
         "intro": [
           "In this lab you will build a sum all primes calculator that takes a number and returns the sum of all prime numbers that are less than or equal to that number."
+        ]
+      },
+      "lab-range-based-lcm-calculator": {
+        "title": "Implement a Range-Based LCM Calculator",
+        "intro": [
+          "In this lab, you will create a function that takes an array of two numbers and returns the least common multiple (LCM) of those two numbers and all the numbers between them."
         ]
       },
       "lab-deep-flattening-tool": {
@@ -4717,10 +4722,7 @@
           "In this lab, you will implement the Depth-First Search Algorithm."
         ]
       },
-      "lab-n-queens-problem": {
-        "title": "",
-        "intro": [""]
-      },
+      "lab-n-queens-problem": { "title": "", "intro": [""] },
       "review-graphs-and-trees": {
         "title": "Graphs and Trees Review",
         "intro": [
