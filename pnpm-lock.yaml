@@ -274,17 +274,17 @@ importers:
         specifier: 2.0.21
         version: 2.0.21
       '@fortawesome/fontawesome-svg-core':
-        specifier: 6.7.1
-        version: 6.7.1
+        specifier: 7.2.0
+        version: 7.2.0
       '@fortawesome/free-brands-svg-icons':
-        specifier: 6.7.1
-        version: 6.7.1
+        specifier: 7.2.0
+        version: 7.2.0
       '@fortawesome/free-solid-svg-icons':
-        specifier: 6.7.1
-        version: 6.7.1
+        specifier: 7.2.0
+        version: 7.2.0
       '@fortawesome/react-fontawesome':
-        specifier: 0.2.2
-        version: 0.2.2(@fortawesome/fontawesome-svg-core@6.7.1)(react@18.2.0)
+        specifier: 3.3.0
+        version: 3.3.0(@fortawesome/fontawesome-svg-core@7.2.0)(react@18.2.0)
       '@freecodecamp/challenge-builder':
         specifier: workspace:*
         version: link:../packages/challenge-builder
@@ -3272,40 +3272,21 @@ packages:
     peerDependencies:
       typebox: ^1.0.13
 
-  '@fortawesome/fontawesome-common-types@6.7.1':
-    resolution: {integrity: sha512-gbDz3TwRrIPT3i0cDfujhshnXO9z03IT1UKRIVi/VEjpNHtSBIP2o5XSm+e816FzzCFEzAxPw09Z13n20PaQJQ==}
-    engines: {node: '>=6'}
-
   '@fortawesome/fontawesome-common-types@7.2.0':
     resolution: {integrity: sha512-IpR0bER9FY25p+e7BmFH25MZKEwFHTfRAfhOyJubgiDnoJNsSvJ7nigLraHtp4VOG/cy8D7uiV0dLkHOne5Fhw==}
-    engines: {node: '>=6'}
-
-  '@fortawesome/fontawesome-svg-core@6.7.1':
-    resolution: {integrity: sha512-8dBIHbfsKlCk2jHQ9PoRBg2Z+4TwyE3vZICSnoDlnsHA6SiMlTwfmW6yX0lHsRmWJugkeb92sA0hZdkXJhuz+g==}
     engines: {node: '>=6'}
 
   '@fortawesome/fontawesome-svg-core@7.2.0':
     resolution: {integrity: sha512-6639htZMjEkwskf3J+e6/iar+4cTNM9qhoWuRfj9F3eJD6r7iCzV1SWnQr2Mdv0QT0suuqU8BoJCZUyCtP9R4Q==}
     engines: {node: '>=6'}
 
-  '@fortawesome/free-brands-svg-icons@6.7.1':
-    resolution: {integrity: sha512-nJR76eqPzCnMyhbiGf6X0aclDirZriTPRcFm1YFvuupyJOGwlNF022w3YBqu+yrHRhnKRpzFX+8wJKqiIjWZkA==}
-    engines: {node: '>=6'}
-
-  '@fortawesome/free-solid-svg-icons@6.7.1':
-    resolution: {integrity: sha512-BTKc0b0mgjWZ2UDKVgmwaE0qt0cZs6ITcDgjrti5f/ki7aF5zs+N91V6hitGo3TItCFtnKg6cUVGdTmBFICFRg==}
+  '@fortawesome/free-brands-svg-icons@7.2.0':
+    resolution: {integrity: sha512-VNG8xqOip1JuJcC3zsVsKRQ60oXG9+oYNDCosjoU/H9pgYmLTEwWw8pE0jhPz/JWdHeUuK6+NQ3qsM4gIbdbYQ==}
     engines: {node: '>=6'}
 
   '@fortawesome/free-solid-svg-icons@7.2.0':
     resolution: {integrity: sha512-YTVITFGN0/24PxzXrwqCgnyd7njDuzp5ZvaCx5nq/jg55kUYd94Nj8UTchBdBofi/L0nwRfjGOg0E41d2u9T1w==}
     engines: {node: '>=6'}
-
-  '@fortawesome/react-fontawesome@0.2.2':
-    resolution: {integrity: sha512-EnkrprPNqI6SXJl//m29hpaNzOp1bruISWaOiRtkMi/xSvHJlzc2j2JAYS7egxt/EbjSNV/k6Xy0AQI6vB2+1g==}
-    deprecated: v0.2.x is no longer supported. Unless you are still using FontAwesome 5, please update to v3.1.1 or greater.
-    peerDependencies:
-      '@fortawesome/fontawesome-svg-core': ~1 || ~6
-      react: '>=16.3'
 
   '@fortawesome/react-fontawesome@3.3.0':
     resolution: {integrity: sha512-EHmHeTf8WgO29sdY3iX/7ekE3gNUdlc2RW6mm/FzELlHFKfTrA9S4MlyquRR+RRCRCn8+jXfLFpLGB2l7wCWyw==}
@@ -12955,8 +12936,8 @@ packages:
   strnum@1.1.2:
     resolution: {integrity: sha512-vrN+B7DBIoTTZjnPNewwhx6cBA/H+IS7rfW68n7XxC1y7uoiGQBxaKzqucGUgavX15dJgiGztLJ8vxuEzwqBdA==}
 
-  strnum@2.2.1:
-    resolution: {integrity: sha512-BwRvNd5/QoAtyW1na1y1LsJGQNvRlkde6Q/ipqqEaivoMdV+B1OMOTVdwR+N/cwVUcIt9PYyHmV8HyexCZSupg==}
+  strnum@2.2.2:
+    resolution: {integrity: sha512-DnR90I+jtXNSTXWdwrEy9FakW7UX+qUZg28gj5fk2vxxl7uS/3bpI4fjFYVmdK9etptYBPNkpahuQnEwhwECqA==}
 
   strtok3@6.3.0:
     resolution: {integrity: sha512-fZtbhtvI9I48xDSywd/somNqgUHl2L2cstmXCCif0itOf96jeW18MBSyrLuNicYQVkvpOxkZtkzujiTJ9LW5Jw==}
@@ -17170,7 +17151,7 @@ snapshots:
       '@babel/parser': 7.28.5
       '@babel/template': 7.28.6
       '@babel/types': 7.28.6
-      debug: 4.4.3
+      debug: 4.3.4(supports-color@8.1.1)
       globals: 11.12.0
     transitivePeerDependencies:
       - supports-color
@@ -17856,35 +17837,19 @@ snapshots:
     dependencies:
       typebox: 1.1.6
 
-  '@fortawesome/fontawesome-common-types@6.7.1': {}
-
   '@fortawesome/fontawesome-common-types@7.2.0': {}
-
-  '@fortawesome/fontawesome-svg-core@6.7.1':
-    dependencies:
-      '@fortawesome/fontawesome-common-types': 6.7.1
 
   '@fortawesome/fontawesome-svg-core@7.2.0':
     dependencies:
       '@fortawesome/fontawesome-common-types': 7.2.0
 
-  '@fortawesome/free-brands-svg-icons@6.7.1':
+  '@fortawesome/free-brands-svg-icons@7.2.0':
     dependencies:
-      '@fortawesome/fontawesome-common-types': 6.7.1
-
-  '@fortawesome/free-solid-svg-icons@6.7.1':
-    dependencies:
-      '@fortawesome/fontawesome-common-types': 6.7.1
+      '@fortawesome/fontawesome-common-types': 7.2.0
 
   '@fortawesome/free-solid-svg-icons@7.2.0':
     dependencies:
       '@fortawesome/fontawesome-common-types': 7.2.0
-
-  '@fortawesome/react-fontawesome@0.2.2(@fortawesome/fontawesome-svg-core@6.7.1)(react@18.2.0)':
-    dependencies:
-      '@fortawesome/fontawesome-svg-core': 6.7.1
-      prop-types: 15.8.1
-      react: 18.2.0
 
   '@fortawesome/react-fontawesome@3.3.0(@fortawesome/fontawesome-svg-core@7.2.0)(react@18.2.0)':
     dependencies:
@@ -20889,7 +20854,7 @@ snapshots:
     dependencies:
       '@typescript-eslint/tsconfig-utils': 8.47.0(typescript@5.9.3)
       '@typescript-eslint/types': 8.47.0
-      debug: 4.4.3
+      debug: 4.3.4(supports-color@8.1.1)
       typescript: 5.9.3
     transitivePeerDependencies:
       - supports-color
@@ -20925,7 +20890,7 @@ snapshots:
       '@typescript-eslint/types': 8.47.0
       '@typescript-eslint/typescript-estree': 8.47.0(typescript@5.9.3)
       '@typescript-eslint/utils': 8.47.0(eslint@9.39.4(jiti@2.6.1))(typescript@5.9.3)
-      debug: 4.4.3
+      debug: 4.3.4(supports-color@8.1.1)
       eslint: 9.39.4(jiti@2.6.1)
       ts-api-utils: 2.1.0(typescript@5.9.3)
       typescript: 5.9.3
@@ -24319,7 +24284,7 @@ snapshots:
     dependencies:
       fast-xml-builder: 1.1.4
       path-expression-matcher: 1.2.0
-      strnum: 2.2.1
+      strnum: 2.2.2
 
   fastest-levenshtein@1.0.16: {}
 
@@ -29778,7 +29743,7 @@ snapshots:
   strnum@1.1.2:
     optional: true
 
-  strnum@2.2.1: {}
+  strnum@2.2.2: {}
 
   strtok3@6.3.0:
     dependencies:
