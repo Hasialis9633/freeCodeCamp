@@ -599,9 +599,7 @@
     "chapters": {
       "learn-data-visualization-with-d3": "Learn Data Visualization with D3"
     },
-    "modules": {
-      "introduction-to-d3": "Introduction to D3"
-    },
+    "modules": { "introduction-to-d3": "Introduction to D3" },
     "module-intros": {
       "introduction-to-d3": {
         "note": "Coming Late 2026",
@@ -7411,10 +7409,34 @@
           "You will learn Express 5 error handling, health checks, and graceful shutdowns by building a bank API."
         ]
       },
+      "lecture-understanding-websockets": {
+        "title": "Understanding WebSockets",
+        "intro": [
+          "Learn how WebSockets enable real-time, bidirectional communication between clients and servers, and how the Pub/Sub messaging architecture routes messages to the right subscribers in real-time applications."
+        ]
+      },
       "workshop-websockets-by-building-a-resource-monitor": {
         "title": "Learn WebSockets by Building a Resource Monitor",
         "intro": [
           "You will learn Node.js WebSockets and real-time data streaming by building a system resource monitor."
+        ]
+      },
+      "lab-chat-app": {
+        "title": "Build a Chat App",
+        "intro": [
+          "Practice building a real-time multi-client chat server using Node.js WebSockets."
+        ]
+      },
+      "review-websockets": {
+        "title": "WebSockets Review",
+        "intro": [
+          "Review WebSockets and Pub/Sub concepts before taking the quiz."
+        ]
+      },
+      "quiz-websockets": {
+        "title": "WebSockets Quiz",
+        "intro": [
+          "Test your knowledge of WebSockets and Pub/Sub with this quiz."
         ]
       },
       "lab-prime-number-checker-module": {
@@ -7439,12 +7461,6 @@
         "title": "Build a Timestamp Microservice",
         "intro": [
           "Practice building a RESTful API with date parsing logic by creating a timestamp microservice."
-        ]
-      },
-      "lab-chat-app": {
-        "title": "Build a Chat App",
-        "intro": [
-          "Practice building a real-time multi-client chat server using Node.js WebSockets."
         ]
       }
     }
