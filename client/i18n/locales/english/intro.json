@@ -4914,6 +4914,12 @@
           "In this workshop, you'll review how to work with JavaScript loops by building a sentence analyzer app."
         ]
       },
+      "lab-traffic-light-sequencer": {
+        "title": "Build a Traffic Light Sequencer",
+        "intro": [
+          "In this lab, you will use JavaScript loops to build a traffic light sequencer."
+        ]
+      },
       "workshop-space-mission-roster": {
         "title": "Build a Space Mission Roster",
         "intro": [
@@ -7453,6 +7459,12 @@
         "title": "Back-End Development and APIs Certification Exam",
         "intro": [
           "Pass this exam to earn your Back-End Development and APIs Certification"
+        ]
+      },
+      "review-authentication-and-authorization": {
+        "title": "Authentication and Authorization Review",
+        "intro": [
+          "Review authentication and authorization concepts before you take the quiz."
         ]
       }
     }
