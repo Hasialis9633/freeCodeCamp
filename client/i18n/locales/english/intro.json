@@ -10623,6 +10623,12 @@
         "title": "Working with Tuples",
         "intro": ["Learn about working with tuples in these lessons."]
       },
+      "workshop-version-checker": {
+        "title": "Build a Version Checker",
+        "intro": [
+          "In this workshop, you'll practice working with tuples by building a program that checks if an app needs an update."
+        ]
+      },
       "lecture-working-with-loops-python": {
         "title": "Working with Loops",
         "intro": ["Learn about working with loops in these lessons."]
@@ -10662,7 +10668,7 @@
           "Learn about working with dictionaries and sets in these lessons."
         ]
       },
-      "lecture-working-with-modules": {
+      "lecture-working-with-modules-v2": {
         "title": "Working with Modules",
         "intro": ["Learn about working with modules in these lessons."]
       },
@@ -10678,7 +10684,7 @@
           "In this workshop, you'll practice working with dictionaries and sets while validating a collection of medical data."
         ]
       },
-      "review-dictionaries-and-sets": {
+      "review-dictionaries-and-sets-v2": {
         "title": "Dictionaries and Sets Review",
         "intro": [
           "Before you're quizzed on dictionaries and sets, you should review what you've learned about them.",
@@ -10886,6 +10892,12 @@
         "title": "Understanding Algorithms and Big O Notation",
         "intro": [
           "In these lessons, you will learn what algorithms are, how to analyze them with Big O notation, and good techniques for approaching algorithmic problems."
+        ]
+      },
+      "workshop-luhn-algorithm": {
+        "title": "Implement the Luhn Algorithm",
+        "intro": [
+          "In this workshop, you will build a validator using numerical computations and string manipulation."
         ]
       },
       "lab-stock-profit-calculator": {
