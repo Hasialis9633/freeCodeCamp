@@ -78,7 +78,7 @@
   "devDependencies": {
     "@freecodecamp/oxlint-config": "workspace:*",
     "@freecodecamp/shared": "workspace:*",
-    "@playwright/test": "1.65.0",
+    "@playwright/test": "1.65.1",
     "@testing-library/dom": "10.4.2",
     "@testing-library/jest-dom": "6.9.1",
     "@types/lodash": "4.17.24",
@@ -100,5 +100,5 @@
     "webpack-bundle-analyzer": "4.10.2",
     "yargs": "17.7.2"
   },
-  "packageManager": "pnpm@12.20.0"
+  "packageManager": "pnpm@12.21.0"
 }
