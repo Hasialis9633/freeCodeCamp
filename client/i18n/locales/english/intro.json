@@ -5485,6 +5485,12 @@
           "You will build a Library Book Search application and use <code>try...catch...finally</code> blocks, along with the <code>throw</code> statement, to catch and manage custom errors."
         ]
       },
+      "workshop-debugging-registration-form": {
+        "title": "Debugging a Registration Form",
+        "intro": [
+          "In this workshop, you will explore the browser console to debug a user registration form."
+        ]
+      },
       "lab-random-background-color-changer": {
         "title": "Debug a Random Background Color Changer",
         "intro": [
@@ -11205,6 +11211,12 @@
         "title": "Understanding Dynamic Programming",
         "intro": [
           "In this lesson, you will learn about dynamic programming, an algorithmic technique used to solve complex problems efficiently by breaking them down into simpler subproblems."
+        ]
+      },
+      "workshop-grid-path-counter": {
+        "title": "Build a Grid Path Counter",
+        "intro": [
+          "In this workshop, you'll build a grid path counter using both top-down memoization and bottom-up tabulation."
         ]
       },
       "lab-nth-fibonacci-number": {
